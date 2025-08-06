@@ -20,7 +20,8 @@ public class SerialSumTimed {
 	}
 	
 	public static void main(String[] args) {
-		int max =1000000000;
+		// int max =10000000; // 10 million used for testing in Ubuntu
+		int max =1000000000; // 1000 million
 		int [] arr = new int[max];
 		long sumArr;
 		for (int i=0;i<max;i++) {  // for checking purposes
