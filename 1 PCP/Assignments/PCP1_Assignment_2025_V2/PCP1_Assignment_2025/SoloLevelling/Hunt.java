@@ -73,7 +73,7 @@ public class Hunt {
 					posRow=posRow+1;
 					break;
 				case DOWN_LEFT:
-					posRow=posRow+1;
+					posCol=posCol+1; //fixed BUG!!!
 					posRow--;
 					break;
 				case DOWN_RIGHT:

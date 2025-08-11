@@ -60,6 +60,7 @@ class DungeonHunter{
         if (randomSeed < 0) {
                 throw new IllegalArgumentException("Random seed must be non-negative.");
             }
+        else if(randomSeed>0)  rand = new Random(randomSeed);  // BUG FIX
         } catch (NumberFormatException e) {
             System.err.println("Error: All arguments must be numeric.");
             System.exit(1);
@@ -68,6 +69,7 @@ class DungeonHunter{
             System.exit(1);
         }
  
+      	
     	xmin =-gateSize;
     	xmax = gateSize;
     	ymin = -gateSize;
@@ -77,6 +79,9 @@ class DungeonHunter{
     	int dungeonRows=dungeon.getRows();
     	int dungeonColumns=dungeon.getColumns();
      	searches= new Hunt [numSearches];
+     	
+
+
     	for (int i=0;i<numSearches;i++)  //intialize searches at random locations in dungeon
     		searches[i]=new Hunt(i+1, rand.nextInt(dungeonRows),
     				rand.nextInt(dungeonColumns),dungeon);

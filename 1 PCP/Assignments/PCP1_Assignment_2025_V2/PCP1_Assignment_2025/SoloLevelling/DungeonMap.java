@@ -91,6 +91,7 @@ public class DungeonMap {
 	     */
 	int getManaLevel( int x, int y) {
 		if (visited(x,y)) return manaMap[x][y];  //don't recalculate 
+		if (manaMap[x][y]>Integer.MIN_VALUE) return manaMap[x][y];  //don't recalculate 
 
 		/* Calculate the coordinates of the point in the ranges */
 		double x_coord = xmin + ( (xmax - xmin) / rows ) * x;
