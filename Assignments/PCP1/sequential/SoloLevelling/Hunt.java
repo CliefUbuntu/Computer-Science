@@ -4,15 +4,14 @@
  *
  * Represents a search in the grid of a DungeonMap to identify the local maximum from a start point.
  *
- *
- *M. Kuttel 2025
- */
+ * M. Kuttel 2025
+ **/
 
 public class Hunt {
-	private int id;						//  identifier for this hunt
+	private int id;					// identifier for this hunt
 	private int posRow, posCol;		// Position in the dungeonMap
-	private int steps; 				//number of steps to end of the search
-	private boolean stopped;	// Did the search hit a previously searched location?
+	private int steps; 				// number of steps to end of the search
+	private boolean stopped;	    // Did the search hit a previously searched location?
 
 	private DungeonMap dungeon;
 	public enum Direction {
@@ -73,7 +72,7 @@ public class Hunt {
 					posRow=posRow+1;
 					break;
 				case DOWN_LEFT:
-					posCol=posCol+1; //fixed BUG!!!
+					posCol=posCol+1;  //fixed BUG!!!
 					posRow--;
 					break;
 				case DOWN_RIGHT:

@@ -3,22 +3,20 @@
  * DungeonMap.java
  *
  * Represents the dungeon terrain for the Dungeon Hunter assignment.
- *Methods to compute  power (mana) values in the dungeon grid,
+ * Methods to compute  power (mana) values in the dungeon grid,
  * to find the neighbouring cell with highest mana value and 
  * to visualise the power of visited cells .
  *
  *
  * Michelle Kuttel
  * 2025
- */
-
-import java.util.Random;
-
-import javax.imageio.ImageIO;
+ **/
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;
 import java.io.File;
+import java.util.Random;
+import javax.imageio.ImageIO;
 
 public class DungeonMap {
 
@@ -196,6 +194,7 @@ public class DungeonMap {
 	            if (value > max) max = value;
 	        }
 	    }
+
 	    // Prevent division by zero if everything has the same value
 	    double range = (max > min) ? (max - min) : 1.0;
 
@@ -213,6 +212,7 @@ public class DungeonMap {
 	            image.setRGB(x, height - 1 - y, color.getRGB());
 	        }
 	    }
+
 	    try {
 	        File output = new File(filename);
 	        ImageIO.write(image, "png", output);
@@ -222,9 +222,9 @@ public class DungeonMap {
 	    }
 	}
 
-	/**
-	 * Maps normalized height [0..1] to black → purple → red → white.
-	 */
+	/** 
+	 * Maps normalized height [0..1] to black → purple → red → white. 
+	 **/
 	private Color mapHeightToColor(double normalized) {
 	    normalized = Math.max(0, Math.min(1, normalized)); // clamp to [0,1]
 
@@ -233,16 +233,16 @@ public class DungeonMap {
 	    if (normalized < 0.33) {
 	        // Black -> Purple
 	        double t = normalized / 0.33;
-	        r = (int) (128 * t); // purple has some red
+	        r = (int) (128 * t);  // purple has some red
 	        g = 0;
-	        b = (int) (128 + 127 * t); // increasing blue
+	        b = (int) (128 + 127 * t);  // increasing blue
 	    } 
 	    else if (normalized < 0.66) {
 	        // Purple -> Red
 	        double t = (normalized - 0.33) / 0.33;
-	        r = (int) (128 + 127 * t); // red dominates
+	        r = (int) (128 + 127 * t);  // red dominates
 	        g = 0;
-	        b = (int) (255 - 255 * t); // fade out blue
+	        b = (int) (255 - 255 * t);  // fade out blue
 	    } 
 	    else {
 	        // Red -> White
@@ -273,6 +273,5 @@ public class DungeonMap {
 	public int getColumns() {
 		return columns;
 	}
-
 
 }

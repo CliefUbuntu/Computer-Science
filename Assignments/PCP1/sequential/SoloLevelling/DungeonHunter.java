@@ -1,12 +1,13 @@
 
-/* Solo-levelling Hunt for Dungeon Master
+/** Solo-levelling Hunt for Dungeon Master
  * Reference sequential version 
  * Michelle Kuttel 2025, University of Cape Town
  * author of original Java code adapted with assistance from chatGPT for reframing 
  * and complex power - "mana" - function.
  * Inspired by  "Hill Climbing with Montecarlo"
  * EduHPC'22 Peachy Assignment developed by Arturo Gonzalez Escribano  (Universidad de Valladolid 2021/2022)
- */
+ **/
+
 /**
  * DungeonHunter.java
  *
@@ -17,7 +18,7 @@
  * Usage:
  *   java DungeonHunter <gridSize> <numSearches> <randomSeed>
  *
- */
+ **/
 
 import java.util.Random; //for the random search locations
 
