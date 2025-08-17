@@ -17,7 +17,7 @@ import java.util.concurrent.RecursiveAction;
  * - When a thread runs out of work, it "steals" work from other threads
  * - This provides excellent load balancing and utilization
  * 
- * @author [Your Name]
+ * @author Clifford
  */
 public class HelloMany extends RecursiveAction {
     

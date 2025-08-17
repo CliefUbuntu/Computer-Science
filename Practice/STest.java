@@ -11,11 +11,15 @@ class BThread extends Thread {
 }
 
 public class STest {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         AThread threadA = new AThread();
         BThread threadB = new BThread();
+        
         threadA.start();
         threadB.start();
+        
+        threadB.join();
+        
         System.out.println("C");
     }
 }
