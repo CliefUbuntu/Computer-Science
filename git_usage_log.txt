@@ -1,0 +1,493 @@
+commit a6ed39d653b38d303ead00ac8fa49ac04666cb55
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Fri Aug 22 01:03:44 2025 +0200
+
+    Updated README.md with PCP1 project structure
+
+commit 072ebf08f6f6a8fa5817f9bc2dac29aa30f71a69
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Fri Aug 22 00:56:48 2025 +0200
+
+    Updated README.md with PCP1 project structure
+
+commit 2dc7f815a86b70828a96dd66c5860f14a0b41b48
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Fri Aug 22 00:25:17 2025 +0200
+
+    Added system info for testing & removed images because they are large.
+    
+    - Added SystemInfo.java for laptop/OS testing (for report analysis)
+    - Added parallel/results/ directory with test results
+    - Removed all images because they are large.
+    - Testing completed for both parallel and sequential implementations
+    - Report being compiled on Overleaf
+
+commit af8affef17fe60407aa9c8b78684739c81d2a2e2
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Wed Aug 20 13:07:17 2025 +0200
+
+    I moved development versions to local machine, keeping the final working parallel implementation for submission
+
+commit 7ff05219fac950104e04c31600148773b856ebb2
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 23:10:41 2025 +0200
+
+    Reorganized files into PCP directory and updated file names
+
+commit bb7439ea4d831822c0b9551b99bf89b2e60ec29f
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:54:47 2025 +0200
+
+    Made comments & highlights to PCP PDF materials - Parts I file 4 & 5
+
+commit 6a993416dfb00877a185dc8b3703f00867f9da05
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:54:47 2025 +0200
+
+    Made comments & highlights to PCP PDF materials - Parts I file 4 & 5
+
+commit 0957cdbc1881e7084ae9400c64db86dba3dc2724
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:37:58 2025 +0200
+
+    Remove large PNG visualization files and update remaining images
+    
+    - Delete all visualization PNG files from parallel versions (v1-v5) and sequential
+    - Update ForkJoin example images (image3, output, output4_threshold, output5_threshold, outputMedian)
+    - Update ThreadRaces output image
+    - Clean up repository to comply with GitHub file size limits
+
+commit b9f99046c82685f255e108e9fde2f2e1c7b53a8d
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:37:58 2025 +0200
+
+    Remove large PNG visualization files and update remaining images
+    
+    - Delete all visualization PNG files from parallel versions (v1-v5) and sequential
+    - Update ForkJoin example images (image3, output, output4_threshold, output5_threshold, outputMedian)
+    - Update ThreadRaces output image
+    - Clean up repository to comply with GitHub file size limits
+
+commit ea4f54ff58e857c2da407259e79a4e0ce2a27dd2
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:30:24 2025 +0200
+
+    Add sequential large visualization files with Git LFS
+
+commit aef72730dd98945ddbc6ffdc317907411e755b37
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:30:24 2025 +0200
+
+    Add sequential large visualization files with Git LFS
+
+commit 55958f7fde5389feaa1857eccc614a828f77c993
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:30:17 2025 +0200
+
+    Add parallel v5 large visualization files with Git LFS
+
+commit 55731efb3f047055f6f129a458ffa0d01378c0bf
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:30:12 2025 +0200
+
+    Add parallel v3 large visualization files with Git LFS
+
+commit a8fb7c83c1ae1fee62f5455ca012132585102934
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:30:12 2025 +0200
+
+    Add parallel v3 large visualization files with Git LFS
+
+commit 2733d22bd34dc032a1562c0318e5decd79cef636
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:18:58 2025 +0200
+
+    Playing around with the sequential SoloLevelling implementation
+
+commit f454e9c2b45c4e350f8908279d1d1b3560db69cf
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:18:58 2025 +0200
+
+    Playing around with the sequential SoloLevelling implementation
+
+commit 9f90e681079cd54fa32f6584c548aaa922adba17
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:18:20 2025 +0200
+
+    Updated parallel v5 visualization outputs
+
+commit b6e4363b98341f0ca47c959d03cc07d13b018a40
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:17:29 2025 +0200
+
+    Updated parallel v3
+
+commit 027b1a1df84db6424c68ba2f59369f345044692f
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:16:34 2025 +0200
+
+    Update HelloThread implementation and compilation
+
+commit 5339fd67cd4777c26e1b48a746f2356a8ab64894
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:16:34 2025 +0200
+
+    Update HelloThread implementation and compilation
+
+commit cfd2df5e10c8b3fc9713e536353343b7790bc0d9
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:16:11 2025 +0200
+
+    Tested ForkJoin project configuration and compiled classes
+
+commit 122e0a155102bcda29e896616ae7adffebe28fd1
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:16:11 2025 +0200
+
+    Tested ForkJoin project configuration and compiled classes
+
+commit b826aa282a86950008c59b9743862eaeb9261997
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:15:22 2025 +0200
+
+    Remove outdated PCP Assignment V2 structure
+    
+    - Delete obsolete PCP1_Assignment_2025_V2 directory
+    - Clean up old assignment PDF and configuration files
+    - Remove deprecated SoloLevelling implementation files
+
+commit 6273e595256e43e9c6a9ba1f206d947bcdc6fac2
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:15:22 2025 +0200
+
+    Remove outdated PCP Assignment V2 structure
+    
+    - Delete obsolete PCP1_Assignment_2025_V2 directory
+    - Clean up old assignment PDF and configuration files
+    - Remove deprecated SoloLevelling implementation files
+
+commit bdffb34097ad8f4e60430fbf48f0a187704dc50b
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:15:01 2025 +0200
+
+    Made changes & added notes to PCP Parallel Java PDF - Part I
+
+commit 02e9c4abad0a5595dd44452f0f0b5fa56bff55ea
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 17 22:15:01 2025 +0200
+
+    Made changes & added notes to PCP Parallel Java PDF - Part I
+
+commit f63c0cff51e47c09c0b9fe34235068c0e39fc658
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Fri Aug 15 00:14:54 2025 +0200
+
+    Added parallel v5 - Latest parallel implementation
+    
+    - Optimized parallel processing solution BUT it is worse
+
+commit 048d18c85180fa9909dd776f885dfdadf6368477
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Fri Aug 15 00:14:54 2025 +0200
+
+    Added parallel v5 - Latest parallel implementation
+    
+    - Optimized parallel processing solution BUT it is worse
+
+commit eda7c690479eb9b2e277eee2b6a48c92af9fabcc
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Fri Aug 15 00:12:50 2025 +0200
+
+    Added parallel v4 - fourth iteration of parallel implementation
+    
+    - Implemented improved parallel processing approach
+    - Tried to enhance performance optimization
+
+commit 94ee715f07df9fe51de7d4363a11549dd5a39a20
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Fri Aug 15 00:12:50 2025 +0200
+
+    Added parallel v4 - fourth iteration of parallel implementation
+    
+    - Implemented improved parallel processing approach
+    - Tried to enhance performance optimization
+
+commit 4ff1a91159eba0da7deb88ca459a77fe9c938abf
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Fri Aug 15 00:11:47 2025 +0200
+
+    Added parallel v3 - Third iteration of parallel implementation
+    
+    - Implemented improved parallel processing approach
+    - Tried to enhance performance optimization
+
+commit 783a68dbefd8c6ba418269412a6959cd0519566a
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Fri Aug 15 00:11:47 2025 +0200
+
+    Added parallel v3 - Third iteration of parallel implementation
+    
+    - Implemented improved parallel processing approach
+    - Tried to enhance performance optimization
+
+commit 5ab009728d4d6a2a2ec6817e48bf69ad9561d45b
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Fri Aug 15 00:10:28 2025 +0200
+
+    Tested sequential implementation, no changes made
+
+commit 142135e77f78af856e7e921a9f8071ec9105461e
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Thu Aug 14 00:40:41 2025 +0200
+
+    Started with Part II lecture notes
+
+commit 70b33d1279a3c78c296d987197ebec181629b710
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Thu Aug 14 00:37:26 2025 +0200
+
+    Adding an optimized parallel version with ThreadLocalRandom
+
+commit 0176a66879c315b3b5b10b38b31934fc409b59ae
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Thu Aug 14 00:36:23 2025 +0200
+
+    Adding the first parallel implementation using Fork/Join
+
+commit 67e5b7a4efd9d991342f6b620a74762c71c828f3
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Thu Aug 14 00:33:42 2025 +0200
+
+    Adding the initial sequential version of Dungeon Hunter assignment
+
+commit 719033fc97d5d2f508586aad381a2649f0955884
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 11 15:00:50 2025 +0200
+
+    Update PCP Assignment - Replace V1 with V2
+    
+    - Remove old PCP1_Assignment_2025 directory and all its contents
+    - Add new PCP1_Assignment_2025_V2 with updated implementation
+    - Working with updated DungeonHunter.java, DungeonMap.java, and Hunt.java
+
+commit 02303d1176bb21ff95aad61df2fc21950e59cc62
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 11 14:52:20 2025 +0200
+
+    Added PCP Part I Parallel Perfomance file
+
+commit 41967716d03045c5decde93aefd09e86c00e3235
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 11 00:57:00 2025 +0200
+
+    Add compiled class files for parallel examples
+
+commit 7618a4048b61bedd226ecb35c3df6127e675761f
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 11 00:56:51 2025 +0200
+
+    Add performance analysis images - threshold comparison and output visualization
+
+commit df48d78e3ef3082312a21e194ceaee2991d5a2d0
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 11 00:54:07 2025 +0200
+
+    Add PrefixSumExplanation.java - Prefix sum algorithm with parallel optimization
+
+commit e67faa496166d50d822f48b1d833840c5add31bb
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 11 00:54:06 2025 +0200
+
+    Add ParallelVectorAddition.java - Parallel vector addition implementation
+
+commit e44129e100f6b67459879b791edbd80fdde710c3
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 11 00:54:06 2025 +0200
+
+    Add ParallelMonteCarloExample.java - Monte Carlo simulation using parallel processing
+
+commit 788c641f1124a93149b50ceadc3086e1b8e28146
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 11 00:53:48 2025 +0200
+
+    Update ParallelTest1.java - Enhanced fork-join parallel implementation
+
+commit 7d8bbbf406a9bd9d0636b7824fe48932a06d5ff0
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 11 00:53:36 2025 +0200
+
+    Add PCP Parallel Performance PDF - Part I
+
+commit 997367a384ba761cb29027c320ef6b5404014550
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 11 00:53:31 2025 +0200
+
+    Update PCP Parallel Algorithms PDF - Part I
+
+commit ac90e87b2c2889cbe60c65f1359bd9ad6cadf2fd
+Author: CliefUbuntu <cliefubuntu@gmail.com>
+Date:   Sun Aug 10 12:35:57 2025 +0200
+
+    Playing around with ParaExam file
+
+commit 0fe1c1ee8d828e3de12dcac47f8604b201ff34fd
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 10 01:16:07 2025 +0200
+
+    Added ForkJoinExamples
+
+commit 6d01f5545cba3657b707ff7bd4cddf3c4708e9f7
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 10 01:03:14 2025 +0200
+
+    Update PCP_2025_5_ParallelAlgorithms.pdf, Main.java, SumTask.class, and add Main2 files
+
+commit c8422f4f5f05253324de30aa54f09aa5389c26dd
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sat Aug 9 22:21:43 2025 +0200
+
+    Update Main files and add SumTask class
+
+commit e8299e736fdcb1b6b941c6b97795b69b2a085446
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sat Aug 9 20:41:43 2025 +0200
+
+    I added the ssh commands for connecting to nightmare
+
+commit 89aaca82c754c5db64bf248f58ccbe033f8c06d8
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Thu Aug 7 09:45:27 2025 +0200
+
+    Updated file 5_PCP_Parallel_Algorithims
+
+commit 0189edd9ab86e81c0b97ae769562afe2728ee6c8
+Author: CliefUbuntu <cliefubuntu@gmail.com>
+Date:   Thu Aug 7 00:52:39 2025 +0200
+
+    Clean up macOS metadata files and compile Java programs
+    
+    - Remove all __MACOSX folders and ._ resource fork files
+    - Compile Attempt3 parallel sum programs (SumAll, SumThread)
+    - Compile SerialSum timing program
+    - Update Practice HelloMany program and test file
+
+commit 43d84dc1efd401d1abbd9ca1b10d6c2f0af04f5e
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Wed Aug 6 21:07:57 2025 +0200
+
+    I added HelloThreadMethods file used to practice fork/join
+
+commit ce9277a8828cd3bd46530d825fa8981b3f027888
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Wed Aug 6 01:11:45 2025 +0200
+
+    Added few practice code
+
+commit 1746009931f85dd77670371e866ac2b19210b66b
+Author: CliefUbuntu <cliefubuntu@gmail.com>
+Date:   Tue Aug 5 18:45:50 2025 +0200
+
+    Ammended some  Practice Codes
+
+commit a451b8416b719b6549ba2af404eaa138b3fa8b71
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Tue Aug 5 11:26:47 2025 +0200
+
+    Amended 2-Programming-Model file
+
+commit 724295dd104f90f5bc89f140c0045cf462880ebf
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Tue Aug 5 10:29:05 2025 +0200
+
+    Added PCP-5-Parallel-Algorithms file & amended the Parallel-Java file
+
+commit 552b6aa045173b4caa2b2da0ed2547c5bb24bda6
+Author: CliefUbuntu <cliefubuntu@gmail.com>
+Date:   Mon Aug 4 23:31:51 2025 +0200
+
+    Documented SSH key recovery steps
+
+commit 2a2d725203723cd87ac80ecb1bf91cf41c68f8dd
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 4 00:38:52 2025 +0200
+
+    Updated PCP_3_MultiThreadingInJava Slides
+
+commit 0e35be942ea14f1e89e739bf528dc7020bdaf0a3
+Merge: 734bf9a 9c5ac6d
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 4 00:44:57 2025 +0200
+
+    WIP on main: 734bf9a Updated PCP_3_MultiThreadingInJava Slides
+
+commit 8d7fcc2f0e9cab145cf778b97285f7a6d3603cfe
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 4 00:44:57 2025 +0200
+
+    WIP on main: 734bf9a Updated PCP_3_MultiThreadingInJava Slides
+
+commit 9c5ac6dcaf30fcaf62b931f4f70f9f2c81cf408c
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 4 00:44:57 2025 +0200
+
+    index on main: 734bf9a Updated PCP_3_MultiThreadingInJava Slides
+
+commit 734bf9a9cb7f4e05b2f2ef4dd0500f31995943d2
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Aug 4 00:38:52 2025 +0200
+
+    Updated PCP_3_MultiThreadingInJava Slides
+
+commit d5d717b3989548a540ccf495c646dbe06e8dd58f
+Author: CliefUbuntu <cliefubuntu@gmail.com>
+Date:   Sun Aug 3 22:04:13 2025 +0200
+
+    Updating the Test.txt file
+
+commit 143e27e43c331713d8be2ec28d7b69035bbfe491
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sun Aug 3 21:30:42 2025 +0200
+
+    I added Assignment 1 files
+
+commit 73441af0ac1e4de0b793707f8784243865df99f3
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Sat Aug 2 23:27:38 2025 +0200
+
+    I added 4 Part I ParallelJava.pdf
+
+commit a45afdfe20b587aa6ff9fe655ea519883152674b
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Tue Jul 29 22:48:02 2025 +0200
+
+    Add folders: 1 PCP, 2 Arch, 3 ToC
+
+commit 6b658cc41fe99c0dbbe45d7d25f868099cdd744c
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Tue Jul 29 21:49:20 2025 +0200
+
+    Add folders: 1 PCP, 2 Arch, 3 ToC
+
+commit f9e16c4e457dd5751315502e4641f9d1d39f526d
+Author: Nyiko Mathebula <MTHNYI011@myuct.ac.za>
+Date:   Mon Jul 28 15:27:04 2025 +0200
+
+    Laptop First Commit
+
+commit afd7af7c1edad728eeec43d94bedde0f5053ab72
+Author: CliefUbuntu <cliefubuntu@gmail.com>
+Date:   Mon Jul 28 15:00:35 2025 +0200
+
+    first commit
+
+commit 7937093886a484ec41ab35c7e89301ba9f0c70f8
+Author: CliefUbuntu <cliefubuntu@gmail.com>
+Date:   Mon Jul 28 14:47:38 2025 +0200
+
+    first commit
+
+commit 690f53a7932d4b4aa72990d76272ccb35308adcd
+Author: CliefUbuntu <cliefubuntu@gmail.com>
+Date:   Mon Jul 28 14:23:40 2025 +0200
+
+    first commit
