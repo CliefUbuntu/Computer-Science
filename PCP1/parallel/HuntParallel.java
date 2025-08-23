@@ -8,16 +8,19 @@
  */
 
 public class HuntParallel {
+    // Store the unique identifier and current position of this hunter
     private int id;
     private int posRow, posCol;
-    private int steps;
-    private boolean stopped;
-    private DungeonMapParallel dungeon;
+    private int steps;          // Count how many steps this hunter has taken
+    private boolean stopped;    // Track whether this hunter has finished searching
+    private DungeonMapParallel dungeon;  // Keep a reference to the shared dungeon
 
+    // Define all possible movement directions for the hunter
     public enum Direction {
         STAY, LEFT, RIGHT, UP, DOWN, UP_LEFT, UP_RIGHT, DOWN_LEFT, DOWN_RIGHT
     }
 
+    // Initialize a new hunter with a starting position and dungeon reference
     public HuntParallel(int id, int pos_row, int pos_col, DungeonMapParallel dungeon) {
         this.id = id;
         this.posRow = pos_row;
@@ -27,18 +30,27 @@ public class HuntParallel {
         this.steps = 0;
     }
 
+    // Implement the main search algorithm - a greedy hill-climbing approach
     public int findManaPeak() {
         int power = Integer.MIN_VALUE;
         Direction next = Direction.STAY;
 
+        // Continue searching until reaching a cell that another hunter has already visited
         while (!dungeon.visited(posRow, posCol)) {
+            // Get the mana level at current position
             power = dungeon.getManaLevel(posRow, posCol);
+            // Mark this cell as visited by this hunter
             dungeon.setVisited(posRow, posCol, id);
             steps++;
+            
+            // Determine which direction leads to the highest mana in neighboring cells
             next = dungeon.getNextStepDirection(posRow, posCol);
             if (DungeonHunterParallel.DEBUG) System.out.println("Shadow " + getID() + " moving  " + next);
+            
+            // Move in the direction of highest mana, or stay if already at a local peak
             switch (next) {
                 case STAY:
+                    // Found a local maximum - no neighbor has higher mana
                     return power;
                 case LEFT:
                     posRow--;
@@ -69,16 +81,13 @@ public class HuntParallel {
                     posRow = posRow + 1;
                     break;
             }
-            // small benign use of ThreadLocalRandom (does not affect algorithm correctness)
-            // meets assignment requirement to use ThreadLocalRandom somewhere
-            // but we do not use it to generate start positions (start positions are precomputed
-            // deterministically to preserve reproducibility).
-            java.util.concurrent.ThreadLocalRandom.current().nextInt(1); 
         }
+        // Reached a cell that another hunter already visited, so stop here
         stopped = true;
         return power;
     }
 
+    // Provide getter methods to access this hunter's state
     public int getID() { return id; }
     public int getPosRow() { return posRow; }
     public int getPosCol() { return posCol; }
