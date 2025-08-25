@@ -13,29 +13,45 @@ This project implements a parallel Monte Carlo hill-climbing algorithm inspired 
 
 ### 🏗️ Repository Structure
 ```
-PCP1/
-├── sequential/                 # Serial implementation (baseline)
-│   ├── SoloLevelling/         # Source code directory
-│   │   ├── DungeonHunter.java # Main hunter character implementation
-│   │   ├── DungeonMap.java    # Dungeon layout and navigation system  
-│   │   ├── Hunt.java          # Core hunting logic and game mechanics
-│   │   └── *.class            # Compiled class files (local build)
-│   ├── bin/                   # Main compiled output directory
+COMPUTER-SCIENCE/
+├── appendix/
+│   ├── laptop-results/
+│   │   ├── Laptop Results.xlsx
+│   │   ├── Laptop_Results(Tabulated).pdf
+│   │   ├── parallel-results.txt
+│   │   └── sequential-results.txt
+│   ├── nightmare-results/
+│   │   ├── Nightmare Results.xlsx
+│   │   ├── Nightmare_Results(Tabulated).pdf
+│   │   ├── nightmare-parallel.txt
+│   │   └── nightmare-sequential.txt
+│   ├── SystemInfo.java
+│   └── SystemInfo.txt
+├── PCP1/
+├── parallel/
+│   ├── DungeonHunterParallel.java
+│   ├── DungeonMapParallel.java
+│   ├── HuntParallel.java
+│   ├── Makefile
+│── sequential/
+│   ├── bin/
 │   │   ├── DungeonHunter.class
 │   │   ├── DungeonMap.class
 │   │   ├── Hunt.class
 │   │   └── Hunt$Direction.class
-│   ├── Makefile               # Build configuration for sequential version
-│   └── .project/.classpath    # Eclipse project files
-├── parallel/                  # Parallel implementation
-│   ├── DungeonHunterParallel.java    # Parallel hunter with threading
-│   ├── DungeonMapParallel.java       # Thread-safe dungeon map system
-│   ├── HuntParallel.java             # Parallelized hunting algorithms
-│   ├── results/                      # Performance analysis results
-│   ├── Makefile                      # Build configuration for parallel version
-│   └── *.class                       # Compiled parallel classes
-├── SystemInfo.java            # System information utility
-├── SystemInfo.class
+│   ├── SoloLeveling/
+│   │   ├── DungeonHunter.class
+│   │   ├── DungeonHunter.java
+│   │   ├── DungeonMap.class
+│   │   ├── DungeonMap.java
+│   │   ├── Hunt.class
+│   │   ├── Hunt.java
+│   │   ├── Hunt$1.class
+│   │   └── Hunt$Direction.class
+│   ├── _classpath
+│   ├── _project
+│   └── Makefile
+├── git usage_log.txt
 └── README.md
 ```
 
@@ -65,11 +81,18 @@ make run ARGS="100 0.2 123"
 - **Arg 2:** Search density (multiplier for number of searches)
 - **Arg 3:** Random seed (0 = random, >0 = reproducible results)
 
+### 📊 Performance Results
+Performance analysis and results are available in the `appendix/` directory, including:
+- Laptop performance metrics (Excel and PDF reports)
+- Nightmare server performance metrics
+- Raw text output files for both sequential and parallel implementations
+- System information files
 
 ### 👨‍💻 Author
 **Student:** Nyiko Mathebula  
 **Course:** CSC2002S - University of Cape Town  
 **Year:** 2025  
 **Assignment:** PCP1 
+
 ### 📄 License
 This project is submitted as coursework for CSC2002S and follows university academic integrity policies.

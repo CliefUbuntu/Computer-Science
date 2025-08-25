@@ -1,0 +1,60 @@
+PowerShell 7.6.0-preview.4
+PS C:\Users\Nyiko\Documents\Computer Science\Computer-Science\PCP1> java SystemInfo
+=== System Information ===
+Available processors (cores) to JVM: 8
+Java Runtime version: 17.0.9+11-LTS-201
+Java VM name: Java HotSpot(TM) 64-Bit Server VM
+Operating System: Windows 11 10.0
+Architecture: amd64
+
+=== CPU Information ===
+Total available processors: 8
+
+=== Memory Information ===
+Max memory (bytes): 4232052736 (4036 MB)
+Total memory (bytes): 266338304 (254 MB)
+Free memory (bytes): 264241152 (252 MB)
+Used memory (bytes): 2097152 (2 MB)
+PS C:\Users\Nyiko\Documents\Computer Science\Computer-Science\PCP1>
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+=== System Information ===
+Available processors (cores) to JVM: 8
+Java Runtime version: 17.0.9+11-LTS-201
+Java VM name: Java HotSpot(TM) 64-Bit Server VM
+Operating System: Windows 11 10.0
+Architecture: amd64
+
+=== CPU Information ===
+Total available processors: 8
+
+=== Memory Information ===
+Max memory (bytes): 4232052736 (4036 MB)
+Total memory (bytes): 266338304 (254 MB)
+Free memory (bytes): 264241152 (252 MB)
+Used memory (bytes): 2097152 (2 MB)
+
+
+
+
+
+mthnyi011@nightmare:~/Documents/CSC2002S/PCP1$ java SystemInfo
+=== System Information ===
+Available processors (cores) to JVM: 8
+Java Runtime version: 17.0.6+9-LTS-190
+Java VM name: Java HotSpot(TM) 64-Bit Server VM
+Operating System: Linux 5.15.0-113-generic
+Architecture: amd64
+
+=== CPU Information ===
+Total available processors: 8
+
+=== Memory Information ===
+Max memory (bytes): 12633243648 (12048 MB)
+Total memory (bytes): 813694976 (776 MB)
+Free memory (bytes): 803992736 (766 MB)
+Used memory (bytes): 9702240 (9 MB)
+mthnyi011@nightmare:~/Documents/CSC2002S/PCP1$

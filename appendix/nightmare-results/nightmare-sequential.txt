@@ -1,0 +1,1490 @@
+mthnyi011@nightmare:~/Documents/CSC2002S/PCP1/sequential/results$ cat results.txt
+java -cp SoloLevelling DungeonHunter 20 0.2 0
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 29 ms
+        number dungeon grid points evaluated: 24903  (62%)
+Dungeon Master (mana 112982) found at:  x=12.4 y=-1.6
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 0
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 33 ms
+        number dungeon grid points evaluated: 24530  (61%)
+Dungeon Master (mana 116839) found at:  x=12.4 y=-1.6
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 0
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 27 ms
+        number dungeon grid points evaluated: 24361  (61%)
+Dungeon Master (mana 106824) found at:  x=-3.2 y=6.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 0
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 26 ms
+        number dungeon grid points evaluated: 24327  (61%)
+Dungeon Master (mana 125414) found at:  x=-6.2 y=11.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 0
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 28 ms
+        number dungeon grid points evaluated: 24443  (61%)
+Dungeon Master (mana 129011) found at:  x=15.4 y=16.6
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 0
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 27 ms
+        number dungeon grid points evaluated: 24572  (61%)
+Dungeon Master (mana 122148) found at:  x=-15.2 y=17.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 100
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 27 ms
+        number dungeon grid points evaluated: 24684  (62%)
+Dungeon Master (mana 119122) found at:  x=7.2 y=-12.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 100
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 56 ms
+        number dungeon grid points evaluated: 24684  (62%)
+Dungeon Master (mana 119122) found at:  x=7.2 y=-12.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 100
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 27 ms
+        number dungeon grid points evaluated: 24684  (62%)
+Dungeon Master (mana 119122) found at:  x=7.2 y=-12.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 100
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 29 ms
+        number dungeon grid points evaluated: 24684  (62%)
+Dungeon Master (mana 119122) found at:  x=7.2 y=-12.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 100
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 28 ms
+        number dungeon grid points evaluated: 24684  (62%)
+Dungeon Master (mana 119122) found at:  x=7.2 y=-12.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 20 0.2 100
+         dungeon size: 20,
+         rows: 200, columns: 200
+         x: [-20.000000, 20.000000], y: [-20.000000, 20.000000]
+         Number searches: 1600
+
+         time: 59 ms
+        number dungeon grid points evaluated: 24684  (62%)
+Dungeon Master (mana 119122) found at:  x=7.2 y=-12.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 30 0.2 100
+         dungeon size: 30,
+         rows: 300, columns: 300
+         x: [-30.000000, 30.000000], y: [-30.000000, 30.000000]
+         Number searches: 3600
+
+         time: 56 ms
+        number dungeon grid points evaluated: 57204  (64%)
+Dungeon Master (mana 116263) found at:  x=15.4 y=-19.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 30 0.2 100
+         dungeon size: 30,
+         rows: 300, columns: 300
+         x: [-30.000000, 30.000000], y: [-30.000000, 30.000000]
+         Number searches: 3600
+
+         time: 60 ms
+        number dungeon grid points evaluated: 57204  (64%)
+Dungeon Master (mana 116263) found at:  x=15.4 y=-19.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 30 0.2 100
+         dungeon size: 30,
+         rows: 300, columns: 300
+         x: [-30.000000, 30.000000], y: [-30.000000, 30.000000]
+         Number searches: 3600
+
+         time: 87 ms
+        number dungeon grid points evaluated: 57204  (64%)
+Dungeon Master (mana 116263) found at:  x=15.4 y=-19.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 30 0.2 100
+         dungeon size: 30,
+         rows: 300, columns: 300
+         x: [-30.000000, 30.000000], y: [-30.000000, 30.000000]
+         Number searches: 3600
+
+         time: 53 ms
+        number dungeon grid points evaluated: 57204  (64%)
+Dungeon Master (mana 116263) found at:  x=15.4 y=-19.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 30 0.2 100
+         dungeon size: 30,
+         rows: 300, columns: 300
+         x: [-30.000000, 30.000000], y: [-30.000000, 30.000000]
+         Number searches: 3600
+
+         time: 171 ms
+        number dungeon grid points evaluated: 57204  (64%)
+Dungeon Master (mana 116263) found at:  x=15.4 y=-19.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 30 0.2 100
+         dungeon size: 30,
+         rows: 300, columns: 300
+         x: [-30.000000, 30.000000], y: [-30.000000, 30.000000]
+         Number searches: 3600
+
+         time: 56 ms
+        number dungeon grid points evaluated: 57204  (64%)
+Dungeon Master (mana 116263) found at:  x=15.4 y=-19.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 40 0.2 100
+         dungeon size: 40,
+         rows: 400, columns: 400
+         x: [-40.000000, 40.000000], y: [-40.000000, 40.000000]
+         Number searches: 6400
+
+         time: 101 ms
+        number dungeon grid points evaluated: 102255  (64%)
+Dungeon Master (mana 110597) found at:  x=18.0 y=-24.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 40 0.2 100
+         dungeon size: 40,
+         rows: 400, columns: 400
+         x: [-40.000000, 40.000000], y: [-40.000000, 40.000000]
+         Number searches: 6400
+
+         time: 87 ms
+        number dungeon grid points evaluated: 102255  (64%)
+Dungeon Master (mana 110597) found at:  x=18.0 y=-24.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 40 0.2 100
+         dungeon size: 40,
+         rows: 400, columns: 400
+         x: [-40.000000, 40.000000], y: [-40.000000, 40.000000]
+         Number searches: 6400
+
+         time: 91 ms
+        number dungeon grid points evaluated: 102255  (64%)
+Dungeon Master (mana 110597) found at:  x=18.0 y=-24.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 40 0.2 100
+         dungeon size: 40,
+         rows: 400, columns: 400
+         x: [-40.000000, 40.000000], y: [-40.000000, 40.000000]
+         Number searches: 6400
+
+         time: 117 ms
+        number dungeon grid points evaluated: 102255  (64%)
+Dungeon Master (mana 110597) found at:  x=18.0 y=-24.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 40 0.2 100
+         dungeon size: 40,
+         rows: 400, columns: 400
+         x: [-40.000000, 40.000000], y: [-40.000000, 40.000000]
+         Number searches: 6400
+
+         time: 89 ms
+        number dungeon grid points evaluated: 102255  (64%)
+Dungeon Master (mana 110597) found at:  x=18.0 y=-24.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 40 0.2 100
+         dungeon size: 40,
+         rows: 400, columns: 400
+         x: [-40.000000, 40.000000], y: [-40.000000, 40.000000]
+         Number searches: 6400
+
+         time: 94 ms
+        number dungeon grid points evaluated: 102255  (64%)
+Dungeon Master (mana 110597) found at:  x=18.0 y=-24.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 50 0.2 100
+         dungeon size: 50,
+         rows: 500, columns: 500
+         x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+         Number searches: 10000
+
+         time: 131 ms
+        number dungeon grid points evaluated: 156666  (63%)
+Dungeon Master (mana 109093) found at:  x=22.2 y=-31.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 50 0.2 100
+         dungeon size: 50,
+         rows: 500, columns: 500
+         x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+         Number searches: 10000
+
+         time: 133 ms
+        number dungeon grid points evaluated: 156666  (63%)
+Dungeon Master (mana 109093) found at:  x=22.2 y=-31.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 50 0.2 100
+         dungeon size: 50,
+         rows: 500, columns: 500
+         x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+         Number searches: 10000
+
+         time: 250 ms
+        number dungeon grid points evaluated: 156666  (63%)
+Dungeon Master (mana 109093) found at:  x=22.2 y=-31.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 50 0.2 100
+         dungeon size: 50,
+         rows: 500, columns: 500
+         x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+         Number searches: 10000
+
+         time: 177 ms
+        number dungeon grid points evaluated: 156666  (63%)
+Dungeon Master (mana 109093) found at:  x=22.2 y=-31.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 50 0.2 100
+         dungeon size: 50,
+         rows: 500, columns: 500
+         x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+         Number searches: 10000
+
+         time: 180 ms
+        number dungeon grid points evaluated: 156666  (63%)
+Dungeon Master (mana 109093) found at:  x=22.2 y=-31.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 50 0.2 100
+         dungeon size: 50,
+         rows: 500, columns: 500
+         x: [-50.000000, 50.000000], y: [-50.000000, 50.000000]
+         Number searches: 10000
+
+         time: 176 ms
+        number dungeon grid points evaluated: 156666  (63%)
+Dungeon Master (mana 109093) found at:  x=22.2 y=-31.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 60 0.2 100
+         dungeon size: 60,
+         rows: 600, columns: 600
+         x: [-60.000000, 60.000000], y: [-60.000000, 60.000000]
+         Number searches: 14400
+
+         time: 200 ms
+        number dungeon grid points evaluated: 217396  (60%)
+Dungeon Master (mana 103125) found at:  x=28.6 y=-34.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 60 0.2 100
+         dungeon size: 60,
+         rows: 600, columns: 600
+         x: [-60.000000, 60.000000], y: [-60.000000, 60.000000]
+         Number searches: 14400
+
+         time: 188 ms
+        number dungeon grid points evaluated: 217396  (60%)
+Dungeon Master (mana 103125) found at:  x=28.6 y=-34.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 60 0.2 100
+         dungeon size: 60,
+         rows: 600, columns: 600
+         x: [-60.000000, 60.000000], y: [-60.000000, 60.000000]
+         Number searches: 14400
+
+         time: 180 ms
+        number dungeon grid points evaluated: 217396  (60%)
+Dungeon Master (mana 103125) found at:  x=28.6 y=-34.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 60 0.2 100
+         dungeon size: 60,
+         rows: 600, columns: 600
+         x: [-60.000000, 60.000000], y: [-60.000000, 60.000000]
+         Number searches: 14400
+
+         time: 179 ms
+        number dungeon grid points evaluated: 217396  (60%)
+Dungeon Master (mana 103125) found at:  x=28.6 y=-34.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 60 0.2 100
+         dungeon size: 60,
+         rows: 600, columns: 600
+         x: [-60.000000, 60.000000], y: [-60.000000, 60.000000]
+         Number searches: 14400
+
+         time: 176 ms
+        number dungeon grid points evaluated: 217396  (60%)
+Dungeon Master (mana 103125) found at:  x=28.6 y=-34.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 70 0.2 100
+         dungeon size: 70,
+         rows: 700, columns: 700
+         x: [-70.000000, 70.000000], y: [-70.000000, 70.000000]
+         Number searches: 19600
+
+         time: 371 ms
+        number dungeon grid points evaluated: 292297  (60%)
+Dungeon Master (mana 93356) found at:  x=31.4 y=-39.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 70 0.2 100
+         dungeon size: 70,
+         rows: 700, columns: 700
+         x: [-70.000000, 70.000000], y: [-70.000000, 70.000000]
+         Number searches: 19600
+
+         time: 561 ms
+        number dungeon grid points evaluated: 292297  (60%)
+Dungeon Master (mana 93356) found at:  x=31.4 y=-39.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 70 0.2 100
+         dungeon size: 70,
+         rows: 700, columns: 700
+         x: [-70.000000, 70.000000], y: [-70.000000, 70.000000]
+         Number searches: 19600
+
+         time: 331 ms
+        number dungeon grid points evaluated: 292297  (60%)
+Dungeon Master (mana 93356) found at:  x=31.4 y=-39.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 70 0.2 100
+         dungeon size: 70,
+         rows: 700, columns: 700
+         x: [-70.000000, 70.000000], y: [-70.000000, 70.000000]
+         Number searches: 19600
+
+         time: 235 ms
+        number dungeon grid points evaluated: 292297  (60%)
+Dungeon Master (mana 93356) found at:  x=31.4 y=-39.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 70 0.2 100
+         dungeon size: 70,
+         rows: 700, columns: 700
+         x: [-70.000000, 70.000000], y: [-70.000000, 70.000000]
+         Number searches: 19600
+
+         time: 232 ms
+        number dungeon grid points evaluated: 292297  (60%)
+Dungeon Master (mana 93356) found at:  x=31.4 y=-39.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 80 0.2 100
+         dungeon size: 80,
+         rows: 800, columns: 800
+         x: [-80.000000, 80.000000], y: [-80.000000, 80.000000]
+         Number searches: 25600
+
+         time: 248 ms
+        number dungeon grid points evaluated: 383055  (60%)
+Dungeon Master (mana 91562) found at:  x=40.4 y=-45.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 80 0.2 100
+         dungeon size: 80,
+         rows: 800, columns: 800
+         x: [-80.000000, 80.000000], y: [-80.000000, 80.000000]
+         Number searches: 25600
+
+         time: 235 ms
+        number dungeon grid points evaluated: 383055  (60%)
+Dungeon Master (mana 91562) found at:  x=40.4 y=-45.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 80 0.2 100
+         dungeon size: 80,
+         rows: 800, columns: 800
+         x: [-80.000000, 80.000000], y: [-80.000000, 80.000000]
+         Number searches: 25600
+
+         time: 263 ms
+        number dungeon grid points evaluated: 383055  (60%)
+Dungeon Master (mana 91562) found at:  x=40.4 y=-45.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 80 0.2 100
+         dungeon size: 80,
+         rows: 800, columns: 800
+         x: [-80.000000, 80.000000], y: [-80.000000, 80.000000]
+         Number searches: 25600
+
+         time: 251 ms
+        number dungeon grid points evaluated: 383055  (60%)
+Dungeon Master (mana 91562) found at:  x=40.4 y=-45.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 80 0.2 100
+         dungeon size: 80,
+         rows: 800, columns: 800
+         x: [-80.000000, 80.000000], y: [-80.000000, 80.000000]
+         Number searches: 25600
+
+         time: 235 ms
+        number dungeon grid points evaluated: 383055  (60%)
+Dungeon Master (mana 91562) found at:  x=40.4 y=-45.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 80 0.2 100
+         dungeon size: 80,
+         rows: 800, columns: 800
+         x: [-80.000000, 80.000000], y: [-80.000000, 80.000000]
+         Number searches: 25600
+
+         time: 240 ms
+        number dungeon grid points evaluated: 383055  (60%)
+Dungeon Master (mana 91562) found at:  x=40.4 y=-45.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 90 0.2 100
+         dungeon size: 90,
+         rows: 900, columns: 900
+         x: [-90.000000, 90.000000], y: [-90.000000, 90.000000]
+         Number searches: 32400
+
+         time: 325 ms
+        number dungeon grid points evaluated: 488183  (60%)
+Dungeon Master (mana 95776) found at:  x=44.0 y=-52.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 90 0.2 100
+         dungeon size: 90,
+         rows: 900, columns: 900
+         x: [-90.000000, 90.000000], y: [-90.000000, 90.000000]
+         Number searches: 32400
+
+         time: 292 ms
+        number dungeon grid points evaluated: 488183  (60%)
+Dungeon Master (mana 95776) found at:  x=44.0 y=-52.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 90 0.2 100
+         dungeon size: 90,
+         rows: 900, columns: 900
+         x: [-90.000000, 90.000000], y: [-90.000000, 90.000000]
+         Number searches: 32400
+
+         time: 300 ms
+        number dungeon grid points evaluated: 488183  (60%)
+Dungeon Master (mana 95776) found at:  x=44.0 y=-52.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 90 0.2 100
+         dungeon size: 90,
+         rows: 900, columns: 900
+         x: [-90.000000, 90.000000], y: [-90.000000, 90.000000]
+         Number searches: 32400
+
+         time: 292 ms
+        number dungeon grid points evaluated: 488183  (60%)
+Dungeon Master (mana 95776) found at:  x=44.0 y=-52.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 90 0.2 100
+         dungeon size: 90,
+         rows: 900, columns: 900
+         x: [-90.000000, 90.000000], y: [-90.000000, 90.000000]
+         Number searches: 32400
+
+         time: 307 ms
+        number dungeon grid points evaluated: 488183  (60%)
+Dungeon Master (mana 95776) found at:  x=44.0 y=-52.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 90 0.2 100
+         dungeon size: 90,
+         rows: 900, columns: 900
+         x: [-90.000000, 90.000000], y: [-90.000000, 90.000000]
+         Number searches: 32400
+
+         time: 297 ms
+        number dungeon grid points evaluated: 488183  (60%)
+Dungeon Master (mana 95776) found at:  x=44.0 y=-52.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 100 0.2 100
+         dungeon size: 100,
+         rows: 1000, columns: 1000
+         x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+         Number searches: 40000
+
+         time: 382 ms
+        number dungeon grid points evaluated: 603406  (60%)
+Dungeon Master (mana 92476) found at:  x=46.8 y=-58.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 100 0.2 100
+         dungeon size: 100,
+         rows: 1000, columns: 1000
+         x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+         Number searches: 40000
+
+         time: 371 ms
+        number dungeon grid points evaluated: 603406  (60%)
+Dungeon Master (mana 92476) found at:  x=46.8 y=-58.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 100 0.2 100
+         dungeon size: 100,
+         rows: 1000, columns: 1000
+         x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+         Number searches: 40000
+
+         time: 362 ms
+        number dungeon grid points evaluated: 603406  (60%)
+Dungeon Master (mana 92476) found at:  x=46.8 y=-58.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 100 0.2 100
+         dungeon size: 100,
+         rows: 1000, columns: 1000
+         x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+         Number searches: 40000
+
+         time: 402 ms
+        number dungeon grid points evaluated: 603406  (60%)
+Dungeon Master (mana 92476) found at:  x=46.8 y=-58.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 100 0.2 100
+         dungeon size: 100,
+         rows: 1000, columns: 1000
+         x: [-100.000000, 100.000000], y: [-100.000000, 100.000000]
+         Number searches: 40000
+
+         time: 368 ms
+        number dungeon grid points evaluated: 603406  (60%)
+Dungeon Master (mana 92476) found at:  x=46.8 y=-58.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 150 0.2 100
+         dungeon size: 150,
+         rows: 1500, columns: 1500
+         x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]
+         Number searches: 90000
+
+         time: 825 ms
+        number dungeon grid points evaluated: 1361553  (61%)
+Dungeon Master (mana 105905) found at:  x=66.6 y=-95.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 150 0.2 100
+         dungeon size: 150,
+         rows: 1500, columns: 1500
+         x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]
+         Number searches: 90000
+
+         time: 832 ms
+        number dungeon grid points evaluated: 1361553  (61%)
+Dungeon Master (mana 105905) found at:  x=66.6 y=-95.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 150 0.2 100
+         dungeon size: 150,
+         rows: 1500, columns: 1500
+         x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]
+         Number searches: 90000
+
+         time: 837 ms
+        number dungeon grid points evaluated: 1361553  (61%)
+Dungeon Master (mana 105905) found at:  x=66.6 y=-95.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 150 0.2 100
+         dungeon size: 150,
+         rows: 1500, columns: 1500
+         x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]
+         Number searches: 90000
+
+         time: 823 ms
+        number dungeon grid points evaluated: 1361553  (61%)
+Dungeon Master (mana 105905) found at:  x=66.6 y=-95.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 150 0.2 100
+         dungeon size: 150,
+         rows: 1500, columns: 1500
+         x: [-150.000000, 150.000000], y: [-150.000000, 150.000000]
+         Number searches: 90000
+
+         time: 820 ms
+        number dungeon grid points evaluated: 1361553  (61%)
+Dungeon Master (mana 105905) found at:  x=66.6 y=-95.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 200 0.2 100
+         dungeon size: 200,
+         rows: 2000, columns: 2000
+         x: [-200.000000, 200.000000], y: [-200.000000, 200.000000]
+         Number searches: 160000
+
+         time: 1644 ms
+        number dungeon grid points evaluated: 2404749  (60%)
+Dungeon Master (mana 117895) found at:  x=90.8 y=-122.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 200 0.2 100
+         dungeon size: 200,
+         rows: 2000, columns: 2000
+         x: [-200.000000, 200.000000], y: [-200.000000, 200.000000]
+         Number searches: 160000
+
+         time: 1693 ms
+        number dungeon grid points evaluated: 2404749  (60%)
+Dungeon Master (mana 117895) found at:  x=90.8 y=-122.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 200 0.2 100
+         dungeon size: 200,
+         rows: 2000, columns: 2000
+         x: [-200.000000, 200.000000], y: [-200.000000, 200.000000]
+         Number searches: 160000
+
+         time: 1783 ms
+        number dungeon grid points evaluated: 2404749  (60%)
+Dungeon Master (mana 117895) found at:  x=90.8 y=-122.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 200 0.2 100
+         dungeon size: 200,
+         rows: 2000, columns: 2000
+         x: [-200.000000, 200.000000], y: [-200.000000, 200.000000]
+         Number searches: 160000
+
+         time: 1789 ms
+        number dungeon grid points evaluated: 2404749  (60%)
+Dungeon Master (mana 117895) found at:  x=90.8 y=-122.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 200 0.2 100
+         dungeon size: 200,
+         rows: 2000, columns: 2000
+         x: [-200.000000, 200.000000], y: [-200.000000, 200.000000]
+         Number searches: 160000
+
+         time: 1874 ms
+        number dungeon grid points evaluated: 2404749  (60%)
+Dungeon Master (mana 117895) found at:  x=90.8 y=-122.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 200 0.2 100
+         dungeon size: 200,
+         rows: 2000, columns: 2000
+         x: [-200.000000, 200.000000], y: [-200.000000, 200.000000]
+         Number searches: 160000
+
+         time: 1866 ms
+        number dungeon grid points evaluated: 2404749  (60%)
+Dungeon Master (mana 117895) found at:  x=90.8 y=-122.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 200 0.2 100
+         dungeon size: 200,
+         rows: 2000, columns: 2000
+         x: [-200.000000, 200.000000], y: [-200.000000, 200.000000]
+         Number searches: 160000
+
+         time: 1670 ms
+        number dungeon grid points evaluated: 2404749  (60%)
+Dungeon Master (mana 117895) found at:  x=90.8 y=-122.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 250 0.2 100
+         dungeon size: 250,
+         rows: 2500, columns: 2500
+         x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+         Number searches: 250000
+
+         time: 3025 ms
+        number dungeon grid points evaluated: 3780341  (60%)
+Dungeon Master (mana 109903) found at:  x=113.0 y=-151.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 250 0.2 100
+         dungeon size: 250,
+         rows: 2500, columns: 2500
+         x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+         Number searches: 250000
+
+         time: 3017 ms
+        number dungeon grid points evaluated: 3780341  (60%)
+Dungeon Master (mana 109903) found at:  x=113.0 y=-151.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 250 0.2 100
+         dungeon size: 250,
+         rows: 2500, columns: 2500
+         x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+         Number searches: 250000
+
+         time: 2848 ms
+        number dungeon grid points evaluated: 3780341  (60%)
+Dungeon Master (mana 109903) found at:  x=113.0 y=-151.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 250 0.2 100
+         dungeon size: 250,
+         rows: 2500, columns: 2500
+         x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+         Number searches: 250000
+
+         time: 2754 ms
+        number dungeon grid points evaluated: 3780341  (60%)
+Dungeon Master (mana 109903) found at:  x=113.0 y=-151.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 250 0.2 100
+         dungeon size: 250,
+         rows: 2500, columns: 2500
+         x: [-250.000000, 250.000000], y: [-250.000000, 250.000000]
+         Number searches: 250000
+
+         time: 2746 ms
+        number dungeon grid points evaluated: 3780341  (60%)
+Dungeon Master (mana 109903) found at:  x=113.0 y=-151.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 300 0.2 100
+         dungeon size: 300,
+         rows: 3000, columns: 3000
+         x: [-300.000000, 300.000000], y: [-300.000000, 300.000000]
+         Number searches: 360000
+
+         time: 4077 ms
+        number dungeon grid points evaluated: 5455733  (61%)
+Dungeon Master (mana 102143) found at:  x=134.4 y=-183.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 300 0.2 100
+         dungeon size: 300,
+         rows: 3000, columns: 3000
+         x: [-300.000000, 300.000000], y: [-300.000000, 300.000000]
+         Number searches: 360000
+
+         time: 4135 ms
+        number dungeon grid points evaluated: 5455733  (61%)
+Dungeon Master (mana 102143) found at:  x=134.4 y=-183.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 300 0.2 100
+         dungeon size: 300,
+         rows: 3000, columns: 3000
+         x: [-300.000000, 300.000000], y: [-300.000000, 300.000000]
+         Number searches: 360000
+
+         time: 3983 ms
+        number dungeon grid points evaluated: 5455733  (61%)
+Dungeon Master (mana 102143) found at:  x=134.4 y=-183.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 300 0.2 100
+         dungeon size: 300,
+         rows: 3000, columns: 3000
+         x: [-300.000000, 300.000000], y: [-300.000000, 300.000000]
+         Number searches: 360000
+
+         time: 4258 ms
+        number dungeon grid points evaluated: 5455733  (61%)
+Dungeon Master (mana 102143) found at:  x=134.4 y=-183.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 300 0.2 100
+         dungeon size: 300,
+         rows: 3000, columns: 3000
+         x: [-300.000000, 300.000000], y: [-300.000000, 300.000000]
+         Number searches: 360000
+
+         time: 4050 ms
+        number dungeon grid points evaluated: 5455733  (61%)
+Dungeon Master (mana 102143) found at:  x=134.4 y=-183.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 350 0.2 100
+         dungeon size: 350,
+         rows: 3500, columns: 3500
+         x: [-350.000000, 350.000000], y: [-350.000000, 350.000000]
+         Number searches: 490000
+
+         time: 5164 ms
+        number dungeon grid points evaluated: 7394174  (60%)
+Dungeon Master (mana 115025) found at:  x=156.4 y=-214.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 350 0.2 100
+         dungeon size: 350,
+         rows: 3500, columns: 3500
+         x: [-350.000000, 350.000000], y: [-350.000000, 350.000000]
+         Number searches: 490000
+
+         time: 5277 ms
+        number dungeon grid points evaluated: 7394174  (60%)
+Dungeon Master (mana 115025) found at:  x=156.4 y=-214.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 350 0.2 100
+         dungeon size: 350,
+         rows: 3500, columns: 3500
+         x: [-350.000000, 350.000000], y: [-350.000000, 350.000000]
+         Number searches: 490000
+
+         time: 5334 ms
+        number dungeon grid points evaluated: 7394174  (60%)
+Dungeon Master (mana 115025) found at:  x=156.4 y=-214.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 350 0.2 100
+         dungeon size: 350,
+         rows: 3500, columns: 3500
+         x: [-350.000000, 350.000000], y: [-350.000000, 350.000000]
+         Number searches: 490000
+
+         time: 5210 ms
+        number dungeon grid points evaluated: 7394174  (60%)
+Dungeon Master (mana 115025) found at:  x=156.4 y=-214.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 350 0.2 100
+         dungeon size: 350,
+         rows: 3500, columns: 3500
+         x: [-350.000000, 350.000000], y: [-350.000000, 350.000000]
+         Number searches: 490000
+
+         time: 5172 ms
+        number dungeon grid points evaluated: 7394174  (60%)
+Dungeon Master (mana 115025) found at:  x=156.4 y=-214.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 400 0.2 100
+         dungeon size: 400,
+         rows: 4000, columns: 4000
+         x: [-400.000000, 400.000000], y: [-400.000000, 400.000000]
+         Number searches: 640000
+
+         time: 6830 ms
+        number dungeon grid points evaluated: 9674787  (60%)
+Dungeon Master (mana 107946) found at:  x=179.2 y=-245.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 400 0.2 100
+         dungeon size: 400,
+         rows: 4000, columns: 4000
+         x: [-400.000000, 400.000000], y: [-400.000000, 400.000000]
+         Number searches: 640000
+
+         time: 6526 ms
+        number dungeon grid points evaluated: 9674787  (60%)
+Dungeon Master (mana 107946) found at:  x=179.2 y=-245.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 400 0.2 100
+         dungeon size: 400,
+         rows: 4000, columns: 4000
+         x: [-400.000000, 400.000000], y: [-400.000000, 400.000000]
+         Number searches: 640000
+
+         time: 6641 ms
+        number dungeon grid points evaluated: 9674787  (60%)
+Dungeon Master (mana 107946) found at:  x=179.2 y=-245.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 400 0.2 100
+         dungeon size: 400,
+         rows: 4000, columns: 4000
+         x: [-400.000000, 400.000000], y: [-400.000000, 400.000000]
+         Number searches: 640000
+
+         time: 6565 ms
+        number dungeon grid points evaluated: 9674787  (60%)
+Dungeon Master (mana 107946) found at:  x=179.2 y=-245.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 400 0.2 100
+         dungeon size: 400,
+         rows: 4000, columns: 4000
+         x: [-400.000000, 400.000000], y: [-400.000000, 400.000000]
+         Number searches: 640000
+
+         time: 6541 ms
+        number dungeon grid points evaluated: 9674787  (60%)
+Dungeon Master (mana 107946) found at:  x=179.2 y=-245.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 450 0.2 100
+         dungeon size: 450,
+         rows: 4500, columns: 4500
+         x: [-450.000000, 450.000000], y: [-450.000000, 450.000000]
+         Number searches: 810000
+
+         time: 8302 ms
+        number dungeon grid points evaluated: 12195495  (60%)
+Dungeon Master (mana 95051) found at:  x=203.6 y=-272.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 450 0.2 100
+         dungeon size: 450,
+         rows: 4500, columns: 4500
+         x: [-450.000000, 450.000000], y: [-450.000000, 450.000000]
+         Number searches: 810000
+
+         time: 8269 ms
+        number dungeon grid points evaluated: 12195495  (60%)
+Dungeon Master (mana 95051) found at:  x=203.6 y=-272.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 450 0.2 100
+         dungeon size: 450,
+         rows: 4500, columns: 4500
+         x: [-450.000000, 450.000000], y: [-450.000000, 450.000000]
+         Number searches: 810000
+
+         time: 8181 ms
+        number dungeon grid points evaluated: 12195495  (60%)
+Dungeon Master (mana 95051) found at:  x=203.6 y=-272.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 450 0.2 100
+         dungeon size: 450,
+         rows: 4500, columns: 4500
+         x: [-450.000000, 450.000000], y: [-450.000000, 450.000000]
+         Number searches: 810000
+
+         time: 8274 ms
+        number dungeon grid points evaluated: 12195495  (60%)
+Dungeon Master (mana 95051) found at:  x=203.6 y=-272.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 450 0.2 100
+         dungeon size: 450,
+         rows: 4500, columns: 4500
+         x: [-450.000000, 450.000000], y: [-450.000000, 450.000000]
+         Number searches: 810000
+
+         time: 8251 ms
+        number dungeon grid points evaluated: 12195495  (60%)
+Dungeon Master (mana 95051) found at:  x=203.6 y=-272.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 500 0.2 100
+         dungeon size: 500,
+         rows: 5000, columns: 5000
+         x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+         Number searches: 1000000
+
+         time: 10856 ms
+        number dungeon grid points evaluated: 15091982  (60%)
+Dungeon Master (mana 107118) found at:  x=220.0 y=-304.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 500 0.2 100
+         dungeon size: 500,
+         rows: 5000, columns: 5000
+         x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+         Number searches: 1000000
+
+         time: 10617 ms
+        number dungeon grid points evaluated: 15091982  (60%)
+Dungeon Master (mana 107118) found at:  x=220.0 y=-304.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 500 0.2 100
+         dungeon size: 500,
+         rows: 5000, columns: 5000
+         x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+         Number searches: 1000000
+
+         time: 10859 ms
+        number dungeon grid points evaluated: 15091982  (60%)
+Dungeon Master (mana 107118) found at:  x=220.0 y=-304.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 500 0.2 100
+         dungeon size: 500,
+         rows: 5000, columns: 5000
+         x: [-500.000000, 500.000000], y: [-500.000000, 500.000000]
+         Number searches: 1000000
+
+         time: 11013 ms
+        number dungeon grid points evaluated: 15091982  (60%)
+Dungeon Master (mana 107118) found at:  x=220.0 y=-304.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 600 0.2 100
+         dungeon size: 600,
+         rows: 6000, columns: 6000
+         x: [-600.000000, 600.000000], y: [-600.000000, 600.000000]
+         Number searches: 1440000
+
+         time: 16002 ms
+        number dungeon grid points evaluated: 21743156  (60%)
+Dungeon Master (mana 116092) found at:  x=270.0 y=-365.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 600 0.2 100
+         dungeon size: 600,
+         rows: 6000, columns: 6000
+         x: [-600.000000, 600.000000], y: [-600.000000, 600.000000]
+         Number searches: 1440000
+
+         time: 15850 ms
+        number dungeon grid points evaluated: 21743156  (60%)
+Dungeon Master (mana 116092) found at:  x=270.0 y=-365.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 600 0.2 100
+         dungeon size: 600,
+         rows: 6000, columns: 6000
+         x: [-600.000000, 600.000000], y: [-600.000000, 600.000000]
+         Number searches: 1440000
+
+         time: 15891 ms
+        number dungeon grid points evaluated: 21743156  (60%)
+Dungeon Master (mana 116092) found at:  x=270.0 y=-365.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 600 0.2 100
+         dungeon size: 600,
+         rows: 6000, columns: 6000
+         x: [-600.000000, 600.000000], y: [-600.000000, 600.000000]
+         Number searches: 1440000
+
+         time: 15847 ms
+        number dungeon grid points evaluated: 21743156  (60%)
+Dungeon Master (mana 116092) found at:  x=270.0 y=-365.8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 700 0.2 100
+         dungeon size: 700,
+         rows: 7000, columns: 7000
+         x: [-700.000000, 700.000000], y: [-700.000000, 700.000000]
+         Number searches: 1960000
+
+         time: 22630 ms
+        number dungeon grid points evaluated: 29546198  (60%)
+Dungeon Master (mana 114908) found at:  x=308.2 y=-429.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 700 0.2 100
+         dungeon size: 700,
+         rows: 7000, columns: 7000
+         x: [-700.000000, 700.000000], y: [-700.000000, 700.000000]
+         Number searches: 1960000
+
+         time: 23603 ms
+        number dungeon grid points evaluated: 29546198  (60%)
+Dungeon Master (mana 114908) found at:  x=308.2 y=-429.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 700 0.2 100
+         dungeon size: 700,
+         rows: 7000, columns: 7000
+         x: [-700.000000, 700.000000], y: [-700.000000, 700.000000]
+         Number searches: 1960000
+
+         time: 22959 ms
+        number dungeon grid points evaluated: 29546198  (60%)
+Dungeon Master (mana 114908) found at:  x=308.2 y=-429.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 700 0.2 100
+         dungeon size: 700,
+         rows: 7000, columns: 7000
+         x: [-700.000000, 700.000000], y: [-700.000000, 700.000000]
+         Number searches: 1960000
+
+         time: 24533 ms
+        number dungeon grid points evaluated: 29546198  (60%)
+Dungeon Master (mana 114908) found at:  x=308.2 y=-429.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 700 0.2 100
+         dungeon size: 700,
+         rows: 7000, columns: 7000
+         x: [-700.000000, 700.000000], y: [-700.000000, 700.000000]
+         Number searches: 1960000
+
+         time: 34055 ms
+        number dungeon grid points evaluated: 29546198  (60%)
+Dungeon Master (mana 114908) found at:  x=308.2 y=-429.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 700 0.2 100
+         dungeon size: 700,
+         rows: 7000, columns: 7000
+         x: [-700.000000, 700.000000], y: [-700.000000, 700.000000]
+         Number searches: 1960000
+
+         time: 22160 ms
+        number dungeon grid points evaluated: 29546198  (60%)
+Dungeon Master (mana 114908) found at:  x=308.2 y=-429.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 800 0.2 100
+         dungeon size: 800,
+         rows: 8000, columns: 8000
+         x: [-800.000000, 800.000000], y: [-800.000000, 800.000000]
+         Number searches: 2560000
+
+         time: 27783 ms
+        number dungeon grid points evaluated: 38708880  (60%)
+Dungeon Master (mana 115399) found at:  x=355.0 y=-486.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 800 0.2 100
+         dungeon size: 800,
+         rows: 8000, columns: 8000
+         x: [-800.000000, 800.000000], y: [-800.000000, 800.000000]
+         Number searches: 2560000
+
+         time: 27577 ms
+        number dungeon grid points evaluated: 38708880  (60%)
+Dungeon Master (mana 115399) found at:  x=355.0 y=-486.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 800 0.2 100
+         dungeon size: 800,
+         rows: 8000, columns: 8000
+         x: [-800.000000, 800.000000], y: [-800.000000, 800.000000]
+         Number searches: 2560000
+
+         time: 27847 ms
+        number dungeon grid points evaluated: 38708880  (60%)
+Dungeon Master (mana 115399) found at:  x=355.0 y=-486.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 800 0.2 100
+         dungeon size: 800,
+         rows: 8000, columns: 8000
+         x: [-800.000000, 800.000000], y: [-800.000000, 800.000000]
+         Number searches: 2560000
+
+         time: 28558 ms
+        number dungeon grid points evaluated: 38708880  (60%)
+Dungeon Master (mana 115399) found at:  x=355.0 y=-486.0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 900 0.2 100
+         dungeon size: 900,
+         rows: 9000, columns: 9000
+         x: [-900.000000, 900.000000], y: [-900.000000, 900.000000]
+         Number searches: 3240000
+
+         time: 35243 ms
+        number dungeon grid points evaluated: 48945693  (60%)
+Dungeon Master (mana 107292) found at:  x=398.8 y=-549.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 900 0.2 100
+         dungeon size: 900,
+         rows: 9000, columns: 9000
+         x: [-900.000000, 900.000000], y: [-900.000000, 900.000000]
+         Number searches: 3240000
+
+         time: 35655 ms
+        number dungeon grid points evaluated: 48945693  (60%)
+Dungeon Master (mana 107292) found at:  x=398.8 y=-549.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 900 0.2 100
+         dungeon size: 900,
+         rows: 9000, columns: 9000
+         x: [-900.000000, 900.000000], y: [-900.000000, 900.000000]
+         Number searches: 3240000
+
+         time: 35727 ms
+        number dungeon grid points evaluated: 48945693  (60%)
+Dungeon Master (mana 107292) found at:  x=398.8 y=-549.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 900 0.2 100
+         dungeon size: 900,
+         rows: 9000, columns: 9000
+         x: [-900.000000, 900.000000], y: [-900.000000, 900.000000]
+         Number searches: 3240000
+
+         time: 35196 ms
+        number dungeon grid points evaluated: 48945693  (60%)
+Dungeon Master (mana 107292) found at:  x=398.8 y=-549.4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 1000 0.2 100
+         dungeon size: 1000,
+         rows: 10000, columns: 10000
+         x: [-1000.000000, 1000.000000], y: [-1000.000000, 1000.000000]
+         Number searches: 4000000
+
+         time: 44194 ms
+        number dungeon grid points evaluated: 60346491  (60%)
+Dungeon Master (mana 107117) found at:  x=442.8 y=-610.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 1000 0.2 100
+         dungeon size: 1000,
+         rows: 10000, columns: 10000
+         x: [-1000.000000, 1000.000000], y: [-1000.000000, 1000.000000]
+         Number searches: 4000000
+
+         time: 43786 ms
+        number dungeon grid points evaluated: 60346491  (60%)
+Dungeon Master (mana 107117) found at:  x=442.8 y=-610.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 1000 0.2 100
+         dungeon size: 1000,
+         rows: 10000, columns: 10000
+         x: [-1000.000000, 1000.000000], y: [-1000.000000, 1000.000000]
+         Number searches: 4000000
+
+         time: 43786 ms
+        number dungeon grid points evaluated: 60346491  (60%)
+Dungeon Master (mana 107117) found at:  x=442.8 y=-610.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 1500 0.2 100
+         dungeon size: 1500,
+         rows: 15000, columns: 15000
+         x: [-1500.000000, 1500.000000], y: [-1500.000000, 1500.000000]
+         Number searches: 9000000
+
+         time: 106016 ms
+        number dungeon grid points evaluated: 135842680  (60%)
+Dungeon Master (mana 112995) found at:  x=666.0 y=-917.6
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 1500 0.2 100
+         dungeon size: 1500,
+         rows: 15000, columns: 15000
+         x: [-1500.000000, 1500.000000], y: [-1500.000000, 1500.000000]
+         Number searches: 9000000
+
+         time: 111951 ms
+        number dungeon grid points evaluated: 135842680  (60%)
+Dungeon Master (mana 112995) found at:  x=666.0 y=-917.6
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 1500 0.2 100
+         dungeon size: 1500,
+         rows: 15000, columns: 15000
+         x: [-1500.000000, 1500.000000], y: [-1500.000000, 1500.000000]
+         Number searches: 9000000
+
+         time: 104025 ms
+        number dungeon grid points evaluated: 135842680  (60%)
+Dungeon Master (mana 112995) found at:  x=666.0 y=-917.6
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 2000 0.2 100
+         dungeon size: 2000,
+         rows: 20000, columns: 20000
+         x: [-2000.000000, 2000.000000], y: [-2000.000000, 2000.000000]
+         Number searches: 16000000
+
+         time: 215391 ms
+        number dungeon grid points evaluated: 241543805  (60%)
+Dungeon Master (mana 96845) found at:  x=886.0 y=-1221.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java -cp SoloLevelling DungeonHunter 2000 0.2 100
+         dungeon size: 2000,
+         rows: 20000, columns: 20000
+         x: [-2000.000000, 2000.000000], y: [-2000.000000, 2000.000000]
+         Number searches: 16000000
+
+         time: 240669 ms
+        number dungeon grid points evaluated: 241543805  (60%)
+Dungeon Master (mana 96845) found at:  x=886.0 y=-1221.2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+mthnyi011@nightmare:~/Documents/CSC2002S/PCP1/sequential/results$

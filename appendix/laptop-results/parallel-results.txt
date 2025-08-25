@@ -1,0 +1,848 @@
+java DungeonHunterParallel 20 0.2 0
+	 dungeon size: 20,
+	 rows: 200, columns: 200
+	 x: [-20,000000, 20,000000], y: [-20,000000, 20,000000]
+	 Number searches: 1600
+
+	 time: 15 ms
+	number dungeon grid points evaluated: 23314  (58%)
+Dungeon Master (mana 122985) found at:  x=0,4 y=-1,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 20 0.2 0
+	 dungeon size: 20,
+	 rows: 200, columns: 200
+	 x: [-20,000000, 20,000000], y: [-20,000000, 20,000000]
+	 Number searches: 1600
+
+	 time: 15 ms
+	number dungeon grid points evaluated: 23583  (59%)
+Dungeon Master (mana 123706) found at:  x=-18,4 y=12,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 20 0.2 0
+	 dungeon size: 20,
+	 rows: 200, columns: 200
+	 x: [-20,000000, 20,000000], y: [-20,000000, 20,000000]
+	 Number searches: 1600
+
+	 time: 16 ms
+	number dungeon grid points evaluated: 23699  (59%)
+Dungeon Master (mana 122399) found at:  x=-9,0 y=5,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 20 0.2 100
+	 dungeon size: 20,
+	 rows: 200, columns: 200
+	 x: [-20,000000, 20,000000], y: [-20,000000, 20,000000]
+	 Number searches: 1600
+
+	 time: 16 ms
+	number dungeon grid points evaluated: 23495  (59%)
+Dungeon Master (mana 119122) found at:  x=7,2 y=-12,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 20 0.2 100
+	 dungeon size: 20,
+	 rows: 200, columns: 200
+	 x: [-20,000000, 20,000000], y: [-20,000000, 20,000000]
+	 Number searches: 1600
+
+	 time: 15 ms
+	number dungeon grid points evaluated: 23549  (59%)
+Dungeon Master (mana 119122) found at:  x=7,2 y=-12,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 20 0.2 100
+	 dungeon size: 20,
+	 rows: 200, columns: 200
+	 x: [-20,000000, 20,000000], y: [-20,000000, 20,000000]
+	 Number searches: 1600
+
+	 time: 14 ms
+	number dungeon grid points evaluated: 23427  (59%)
+Dungeon Master (mana 119122) found at:  x=7,2 y=-12,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 30 0.2 100
+	 dungeon size: 30,
+	 rows: 300, columns: 300
+	 x: [-30,000000, 30,000000], y: [-30,000000, 30,000000]
+	 Number searches: 3600
+
+	 time: 27 ms
+	number dungeon grid points evaluated: 53443  (59%)
+Dungeon Master (mana 116263) found at:  x=15,4 y=-19,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 30 0.2 100
+	 dungeon size: 30,
+	 rows: 300, columns: 300
+	 x: [-30,000000, 30,000000], y: [-30,000000, 30,000000]
+	 Number searches: 3600
+
+	 time: 28 ms
+	number dungeon grid points evaluated: 53061  (59%)
+Dungeon Master (mana 116263) found at:  x=15,4 y=-19,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 30 0.2 100
+	 dungeon size: 30,
+	 rows: 300, columns: 300
+	 x: [-30,000000, 30,000000], y: [-30,000000, 30,000000]
+	 Number searches: 3600
+
+	 time: 28 ms
+	number dungeon grid points evaluated: 54133  (60%)
+Dungeon Master (mana 116263) found at:  x=15,4 y=-19,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 40 0.2 100
+	 dungeon size: 40,
+	 rows: 400, columns: 400
+	 x: [-40,000000, 40,000000], y: [-40,000000, 40,000000]
+	 Number searches: 6400
+
+	 time: 38 ms
+	number dungeon grid points evaluated: 94547  (59%)
+Dungeon Master (mana 110597) found at:  x=18,0 y=-24,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 40 0.2 100
+	 dungeon size: 40,
+	 rows: 400, columns: 400
+	 x: [-40,000000, 40,000000], y: [-40,000000, 40,000000]
+	 Number searches: 6400
+
+	 time: 33 ms
+	number dungeon grid points evaluated: 94570  (59%)
+Dungeon Master (mana 110597) found at:  x=18,0 y=-24,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 40 0.2 100
+	 dungeon size: 40,
+	 rows: 400, columns: 400
+	 x: [-40,000000, 40,000000], y: [-40,000000, 40,000000]
+	 Number searches: 6400
+
+	 time: 33 ms
+	number dungeon grid points evaluated: 94205  (59%)
+Dungeon Master (mana 110597) found at:  x=18,0 y=-24,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 50 0.2 100
+	 dungeon size: 50,
+	 rows: 500, columns: 500
+	 x: [-50,000000, 50,000000], y: [-50,000000, 50,000000]
+	 Number searches: 10000
+
+	 time: 58 ms
+	number dungeon grid points evaluated: 144821  (58%)
+Dungeon Master (mana 109093) found at:  x=22,2 y=-31,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 50 0.2 100
+	 dungeon size: 50,
+	 rows: 500, columns: 500
+	 x: [-50,000000, 50,000000], y: [-50,000000, 50,000000]
+	 Number searches: 10000
+
+	 time: 51 ms
+	number dungeon grid points evaluated: 141025  (56%)
+Dungeon Master (mana 109093) found at:  x=22,2 y=-31,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 50 0.2 100
+	 dungeon size: 50,
+	 rows: 500, columns: 500
+	 x: [-50,000000, 50,000000], y: [-50,000000, 50,000000]
+	 Number searches: 10000
+
+	 time: 42 ms
+	number dungeon grid points evaluated: 137734  (55%)
+Dungeon Master (mana 109093) found at:  x=22,2 y=-31,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 60 0.2 100
+	 dungeon size: 60,
+	 rows: 600, columns: 600
+	 x: [-60,000000, 60,000000], y: [-60,000000, 60,000000]
+	 Number searches: 14400
+
+	 time: 64 ms
+	number dungeon grid points evaluated: 186642  (52%)
+Dungeon Master (mana 103125) found at:  x=28,6 y=-34,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 60 0.2 100
+	 dungeon size: 60,
+	 rows: 600, columns: 600
+	 x: [-60,000000, 60,000000], y: [-60,000000, 60,000000]
+	 Number searches: 14400
+
+	 time: 62 ms
+	number dungeon grid points evaluated: 186440  (52%)
+Dungeon Master (mana 103125) found at:  x=28,6 y=-34,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 60 0.2 100
+	 dungeon size: 60,
+	 rows: 600, columns: 600
+	 x: [-60,000000, 60,000000], y: [-60,000000, 60,000000]
+	 Number searches: 14400
+
+	 time: 74 ms
+	number dungeon grid points evaluated: 195884  (54%)
+Dungeon Master (mana 103125) found at:  x=28,6 y=-34,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 70 0.2 100
+	 dungeon size: 70,
+	 rows: 700, columns: 700
+	 x: [-70,000000, 70,000000], y: [-70,000000, 70,000000]
+	 Number searches: 19600
+
+	 time: 70 ms
+	number dungeon grid points evaluated: 239633  (49%)
+Dungeon Master (mana 93356) found at:  x=31,4 y=-39,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 70 0.2 100
+	 dungeon size: 70,
+	 rows: 700, columns: 700
+	 x: [-70,000000, 70,000000], y: [-70,000000, 70,000000]
+	 Number searches: 19600
+
+	 time: 70 ms
+	number dungeon grid points evaluated: 243882  (50%)
+Dungeon Master (mana 93356) found at:  x=31,4 y=-39,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 70 0.2 100
+	 dungeon size: 70,
+	 rows: 700, columns: 700
+	 x: [-70,000000, 70,000000], y: [-70,000000, 70,000000]
+	 Number searches: 19600
+
+	 time: 81 ms
+	number dungeon grid points evaluated: 251399  (51%)
+Dungeon Master (mana 93356) found at:  x=31,4 y=-39,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 80 0.2 100
+	 dungeon size: 80,
+	 rows: 800, columns: 800
+	 x: [-80,000000, 80,000000], y: [-80,000000, 80,000000]
+	 Number searches: 25600
+
+	 time: 81 ms
+	number dungeon grid points evaluated: 308796  (48%)
+Dungeon Master (mana 91562) found at:  x=40,4 y=-45,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 80 0.2 100
+	 dungeon size: 80,
+	 rows: 800, columns: 800
+	 x: [-80,000000, 80,000000], y: [-80,000000, 80,000000]
+	 Number searches: 25600
+
+	 time: 84 ms
+	number dungeon grid points evaluated: 313078  (49%)
+Dungeon Master (mana 91562) found at:  x=40,4 y=-45,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 80 0.2 100
+	 dungeon size: 80,
+	 rows: 800, columns: 800
+	 x: [-80,000000, 80,000000], y: [-80,000000, 80,000000]
+	 Number searches: 25600
+
+	 time: 84 ms
+	number dungeon grid points evaluated: 316754  (49%)
+Dungeon Master (mana 91562) found at:  x=40,4 y=-45,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 90 0.2 100
+	 dungeon size: 90,
+	 rows: 900, columns: 900
+	 x: [-90,000000, 90,000000], y: [-90,000000, 90,000000]
+	 Number searches: 32400
+
+	 time: 101 ms
+	number dungeon grid points evaluated: 392796  (48%)
+Dungeon Master (mana 95776) found at:  x=44,0 y=-52,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 90 0.2 100
+	 dungeon size: 90,
+	 rows: 900, columns: 900
+	 x: [-90,000000, 90,000000], y: [-90,000000, 90,000000]
+	 Number searches: 32400
+
+	 time: 103 ms
+	number dungeon grid points evaluated: 390196  (48%)
+Dungeon Master (mana 95776) found at:  x=44,0 y=-52,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 90 0.2 100
+	 dungeon size: 90,
+	 rows: 900, columns: 900
+	 x: [-90,000000, 90,000000], y: [-90,000000, 90,000000]
+	 Number searches: 32400
+
+	 time: 118 ms
+	number dungeon grid points evaluated: 404888  (50%)
+Dungeon Master (mana 95776) found at:  x=44,0 y=-52,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 100 0.2 100
+	 dungeon size: 100,
+	 rows: 1000, columns: 1000
+	 x: [-100,000000, 100,000000], y: [-100,000000, 100,000000]
+	 Number searches: 40000
+
+	 time: 99 ms
+	number dungeon grid points evaluated: 478849  (48%)
+Dungeon Master (mana 92476) found at:  x=46,8 y=-58,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 100 0.2 100
+	 dungeon size: 100,
+	 rows: 1000, columns: 1000
+	 x: [-100,000000, 100,000000], y: [-100,000000, 100,000000]
+	 Number searches: 40000
+
+	 time: 100 ms
+	number dungeon grid points evaluated: 467740  (47%)
+Dungeon Master (mana 92476) found at:  x=46,8 y=-58,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 100 0.2 100
+	 dungeon size: 100,
+	 rows: 1000, columns: 1000
+	 x: [-100,000000, 100,000000], y: [-100,000000, 100,000000]
+	 Number searches: 40000
+
+	 time: 107 ms
+	number dungeon grid points evaluated: 471756  (47%)
+Dungeon Master (mana 92476) found at:  x=46,8 y=-58,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 150 0.2 100
+	 dungeon size: 150,
+	 rows: 1500, columns: 1500
+	 x: [-150,000000, 150,000000], y: [-150,000000, 150,000000]
+	 Number searches: 90000
+
+	 time: 188 ms
+	number dungeon grid points evaluated: 1050874  (47%)
+Dungeon Master (mana 105905) found at:  x=66,6 y=-95,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 150 0.2 100
+	 dungeon size: 150,
+	 rows: 1500, columns: 1500
+	 x: [-150,000000, 150,000000], y: [-150,000000, 150,000000]
+	 Number searches: 90000
+
+	 time: 191 ms
+	number dungeon grid points evaluated: 1052801  (47%)
+Dungeon Master (mana 105905) found at:  x=66,6 y=-95,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 150 0.2 100
+	 dungeon size: 150,
+	 rows: 1500, columns: 1500
+	 x: [-150,000000, 150,000000], y: [-150,000000, 150,000000]
+	 Number searches: 90000
+
+	 time: 174 ms
+	number dungeon grid points evaluated: 1027405  (46%)
+Dungeon Master (mana 105905) found at:  x=66,6 y=-95,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 200 0.2 100
+	 dungeon size: 200,
+	 rows: 2000, columns: 2000
+	 x: [-200,000000, 200,000000], y: [-200,000000, 200,000000]
+	 Number searches: 160000
+
+	 time: 321 ms
+	number dungeon grid points evaluated: 1815084  (45%)
+Dungeon Master (mana 117895) found at:  x=90,8 y=-122,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 200 0.2 100
+	 dungeon size: 200,
+	 rows: 2000, columns: 2000
+	 x: [-200,000000, 200,000000], y: [-200,000000, 200,000000]
+	 Number searches: 160000
+
+	 time: 310 ms
+	number dungeon grid points evaluated: 1827244  (46%)
+Dungeon Master (mana 117895) found at:  x=90,8 y=-122,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 200 0.2 100
+	 dungeon size: 200,
+	 rows: 2000, columns: 2000
+	 x: [-200,000000, 200,000000], y: [-200,000000, 200,000000]
+	 Number searches: 160000
+
+	 time: 304 ms
+	number dungeon grid points evaluated: 1803010  (45%)
+Dungeon Master (mana 117895) found at:  x=90,8 y=-122,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 250 0.2 100
+	 dungeon size: 250,
+	 rows: 2500, columns: 2500
+	 x: [-250,000000, 250,000000], y: [-250,000000, 250,000000]
+	 Number searches: 250000
+
+	 time: 420 ms
+	number dungeon grid points evaluated: 2830322  (45%)
+Dungeon Master (mana 109903) found at:  x=113,0 y=-151,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 250 0.2 100
+	 dungeon size: 250,
+	 rows: 2500, columns: 2500
+	 x: [-250,000000, 250,000000], y: [-250,000000, 250,000000]
+	 Number searches: 250000
+
+	 time: 425 ms
+	number dungeon grid points evaluated: 2806217  (45%)
+Dungeon Master (mana 109903) found at:  x=113,0 y=-151,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 250 0.2 100
+	 dungeon size: 250,
+	 rows: 2500, columns: 2500
+	 x: [-250,000000, 250,000000], y: [-250,000000, 250,000000]
+	 Number searches: 250000
+
+	 time: 415 ms
+	number dungeon grid points evaluated: 2850639  (46%)
+Dungeon Master (mana 109903) found at:  x=113,0 y=-151,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 300 0.2 100
+	 dungeon size: 300,
+	 rows: 3000, columns: 3000
+	 x: [-300,000000, 300,000000], y: [-300,000000, 300,000000]
+	 Number searches: 360000
+
+	 time: 581 ms
+	number dungeon grid points evaluated: 3908589  (43%)
+Dungeon Master (mana 102143) found at:  x=134,4 y=-183,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 300 0.2 100
+	 dungeon size: 300,
+	 rows: 3000, columns: 3000
+	 x: [-300,000000, 300,000000], y: [-300,000000, 300,000000]
+	 Number searches: 360000
+
+	 time: 568 ms
+	number dungeon grid points evaluated: 4033131  (45%)
+Dungeon Master (mana 102143) found at:  x=134,4 y=-183,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 300 0.2 100
+	 dungeon size: 300,
+	 rows: 3000, columns: 3000
+	 x: [-300,000000, 300,000000], y: [-300,000000, 300,000000]
+	 Number searches: 360000
+
+	 time: 573 ms
+	number dungeon grid points evaluated: 3994950  (44%)
+Dungeon Master (mana 102143) found at:  x=134,4 y=-183,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 350 0.2 100
+	 dungeon size: 350,
+	 rows: 3500, columns: 3500
+	 x: [-350,000000, 350,000000], y: [-350,000000, 350,000000]
+	 Number searches: 490000
+
+	 time: 737 ms
+	number dungeon grid points evaluated: 5442812  (44%)
+Dungeon Master (mana 115025) found at:  x=156,4 y=-214,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 350 0.2 100
+	 dungeon size: 350,
+	 rows: 3500, columns: 3500
+	 x: [-350,000000, 350,000000], y: [-350,000000, 350,000000]
+	 Number searches: 490000
+
+	 time: 754 ms
+	number dungeon grid points evaluated: 5499981  (45%)
+Dungeon Master (mana 115025) found at:  x=156,4 y=-214,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 350 0.2 100
+	 dungeon size: 350,
+	 rows: 3500, columns: 3500
+	 x: [-350,000000, 350,000000], y: [-350,000000, 350,000000]
+	 Number searches: 490000
+
+	 time: 746 ms
+	number dungeon grid points evaluated: 5321557  (43%)
+Dungeon Master (mana 115025) found at:  x=156,4 y=-214,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 400 0.2 100
+	 dungeon size: 400,
+	 rows: 4000, columns: 4000
+	 x: [-400,000000, 400,000000], y: [-400,000000, 400,000000]
+	 Number searches: 640000
+
+	 time: 962 ms
+	number dungeon grid points evaluated: 7168630  (45%)
+Dungeon Master (mana 107946) found at:  x=179,2 y=-245,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 400 0.2 100
+	 dungeon size: 400,
+	 rows: 4000, columns: 4000
+	 x: [-400,000000, 400,000000], y: [-400,000000, 400,000000]
+	 Number searches: 640000
+
+	 time: 991 ms
+	number dungeon grid points evaluated: 7031649  (44%)
+Dungeon Master (mana 107946) found at:  x=179,2 y=-245,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 400 0.2 100
+	 dungeon size: 400,
+	 rows: 4000, columns: 4000
+	 x: [-400,000000, 400,000000], y: [-400,000000, 400,000000]
+	 Number searches: 640000
+
+	 time: 959 ms
+	number dungeon grid points evaluated: 6949322  (43%)
+Dungeon Master (mana 107946) found at:  x=179,2 y=-245,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 500 0.2 100
+	 dungeon size: 500,
+	 rows: 5000, columns: 5000
+	 x: [-500,000000, 500,000000], y: [-500,000000, 500,000000]
+	 Number searches: 1000000
+
+	 time: 1430 ms
+	number dungeon grid points evaluated: 10708075  (43%)
+Dungeon Master (mana 107118) found at:  x=220,0 y=-304,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 500 0.2 100
+	 dungeon size: 500,
+	 rows: 5000, columns: 5000
+	 x: [-500,000000, 500,000000], y: [-500,000000, 500,000000]
+	 Number searches: 1000000
+
+	 time: 1424 ms
+	number dungeon grid points evaluated: 10938835  (44%)
+Dungeon Master (mana 107118) found at:  x=220,0 y=-304,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 500 0.2 100
+	 dungeon size: 500,
+	 rows: 5000, columns: 5000
+	 x: [-500,000000, 500,000000], y: [-500,000000, 500,000000]
+	 Number searches: 1000000
+
+	 time: 1429 ms
+	number dungeon grid points evaluated: 10869139  (43%)
+Dungeon Master (mana 107118) found at:  x=220,0 y=-304,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 600 0.2 100
+	 dungeon size: 600,
+	 rows: 6000, columns: 6000
+	 x: [-600,000000, 600,000000], y: [-600,000000, 600,000000]
+	 Number searches: 1440000
+
+	 time: 2049 ms
+	number dungeon grid points evaluated: 15407031  (43%)
+Dungeon Master (mana 116092) found at:  x=270,0 y=-365,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 600 0.2 100
+	 dungeon size: 600,
+	 rows: 6000, columns: 6000
+	 x: [-600,000000, 600,000000], y: [-600,000000, 600,000000]
+	 Number searches: 1440000
+
+	 time: 2045 ms
+	number dungeon grid points evaluated: 15359283  (43%)
+Dungeon Master (mana 116092) found at:  x=270,0 y=-365,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 600 0.2 100
+	 dungeon size: 600,
+	 rows: 6000, columns: 6000
+	 x: [-600,000000, 600,000000], y: [-600,000000, 600,000000]
+	 Number searches: 1440000
+
+	 time: 2039 ms
+	number dungeon grid points evaluated: 15345176  (43%)
+Dungeon Master (mana 116092) found at:  x=270,0 y=-365,8
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 700 0.2 100
+	 dungeon size: 700,
+	 rows: 7000, columns: 7000
+	 x: [-700,000000, 700,000000], y: [-700,000000, 700,000000]
+	 Number searches: 1960000
+
+	 time: 2742 ms
+	number dungeon grid points evaluated: 20592307  (42%)
+Dungeon Master (mana 114908) found at:  x=308,2 y=-429,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 700 0.2 100
+	 dungeon size: 700,
+	 rows: 7000, columns: 7000
+	 x: [-700,000000, 700,000000], y: [-700,000000, 700,000000]
+	 Number searches: 1960000
+
+	 time: 2775 ms
+	number dungeon grid points evaluated: 20785679  (42%)
+Dungeon Master (mana 114908) found at:  x=308,2 y=-429,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 700 0.2 100
+	 dungeon size: 700,
+	 rows: 7000, columns: 7000
+	 x: [-700,000000, 700,000000], y: [-700,000000, 700,000000]
+	 Number searches: 1960000
+
+	 time: 2849 ms
+	number dungeon grid points evaluated: 20371629  (42%)
+Dungeon Master (mana 114908) found at:  x=308,2 y=-429,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 800 0.2 100
+	 dungeon size: 800,
+	 rows: 8000, columns: 8000
+	 x: [-800,000000, 800,000000], y: [-800,000000, 800,000000]
+	 Number searches: 2560000
+
+	 time: 3655 ms
+	number dungeon grid points evaluated: 27306865  (43%)
+Dungeon Master (mana 115399) found at:  x=355,0 y=-486,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 800 0.2 100
+	 dungeon size: 800,
+	 rows: 8000, columns: 8000
+	 x: [-800,000000, 800,000000], y: [-800,000000, 800,000000]
+	 Number searches: 2560000
+
+	 time: 3606 ms
+	number dungeon grid points evaluated: 28178588  (44%)
+Dungeon Master (mana 115399) found at:  x=355,0 y=-486,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 800 0.2 100
+	 dungeon size: 800,
+	 rows: 8000, columns: 8000
+	 x: [-800,000000, 800,000000], y: [-800,000000, 800,000000]
+	 Number searches: 2560000
+
+	 time: 3694 ms
+	number dungeon grid points evaluated: 28171212  (44%)
+Dungeon Master (mana 115399) found at:  x=355,0 y=-486,0
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 900 0.2 100
+	 dungeon size: 900,
+	 rows: 9000, columns: 9000
+	 x: [-900,000000, 900,000000], y: [-900,000000, 900,000000]
+	 Number searches: 3240000
+
+	 time: 4549 ms
+	number dungeon grid points evaluated: 34618504  (43%)
+Dungeon Master (mana 107292) found at:  x=398,8 y=-549,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 900 0.2 100
+	 dungeon size: 900,
+	 rows: 9000, columns: 9000
+	 x: [-900,000000, 900,000000], y: [-900,000000, 900,000000]
+	 Number searches: 3240000
+
+	 time: 4662 ms
+	number dungeon grid points evaluated: 35183053  (43%)
+Dungeon Master (mana 107292) found at:  x=398,8 y=-549,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 900 0.2 100
+	 dungeon size: 900,
+	 rows: 9000, columns: 9000
+	 x: [-900,000000, 900,000000], y: [-900,000000, 900,000000]
+	 Number searches: 3240000
+
+	 time: 4617 ms
+	number dungeon grid points evaluated: 34917964  (43%)
+Dungeon Master (mana 107292) found at:  x=398,8 y=-549,4
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 1000 0.2 100
+	 dungeon size: 1000,
+	 rows: 10000, columns: 10000
+	 x: [-1000,000000, 1000,000000], y: [-1000,000000, 1000,000000]
+	 Number searches: 4000000
+
+	 time: 5638 ms
+	number dungeon grid points evaluated: 43829475  (44%)
+Dungeon Master (mana 107117) found at:  x=442,8 y=-610,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 1000 0.2 100
+	 dungeon size: 1000,
+	 rows: 10000, columns: 10000
+	 x: [-1000,000000, 1000,000000], y: [-1000,000000, 1000,000000]
+	 Number searches: 4000000
+
+	 time: 5699 ms
+	number dungeon grid points evaluated: 43746671  (44%)
+Dungeon Master (mana 107117) found at:  x=442,8 y=-610,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 1000 0.2 100
+	 dungeon size: 1000,
+	 rows: 10000, columns: 10000
+	 x: [-1000,000000, 1000,000000], y: [-1000,000000, 1000,000000]
+	 Number searches: 4000000
+
+	 time: 5708 ms
+	number dungeon grid points evaluated: 43668634  (44%)
+Dungeon Master (mana 107117) found at:  x=442,8 y=-610,2
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 1500 0.2 100
+	 dungeon size: 1500,
+	 rows: 15000, columns: 15000
+	 x: [-1500,000000, 1500,000000], y: [-1500,000000, 1500,000000]
+	 Number searches: 9000000
+
+	 time: 13514 ms
+	number dungeon grid points evaluated: 98736785  (44%)
+Dungeon Master (mana 112995) found at:  x=666,0 y=-917,6
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 1500 0.2 100
+	 dungeon size: 1500,
+	 rows: 15000, columns: 15000
+	 x: [-1500,000000, 1500,000000], y: [-1500,000000, 1500,000000]
+	 Number searches: 9000000
+
+	 time: 13521 ms
+	number dungeon grid points evaluated: 98367600  (44%)
+Dungeon Master (mana 112995) found at:  x=666,0 y=-917,6
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 1500 0.2 100
+	 dungeon size: 1500,
+	 rows: 15000, columns: 15000
+	 x: [-1500,000000, 1500,000000], y: [-1500,000000, 1500,000000]
+	 Number searches: 9000000
+
+	 time: 14405 ms
+	number dungeon grid points evaluated: 99256233  (44%)
+Dungeon Master (mana 112995) found at:  x=666,0 y=-917,6
+
+map saved to visualiseSearch.png
+map saved to visualiseSearchPath.png
+java DungeonHunterParallel 2000 0.2 100
+	 dungeon size: 2000,
+	 rows: 20000, columns: 20000
+	 x: [-2000,000000, 2000,000000], y: [-2000,000000, 2000,000000]
+	 Number searches: 16000000
+
+	 time: 32794 ms
+	number dungeon grid points evaluated: 189988047  (47%)
+Dungeon Master (mana 96845) found at:  x=886,0 y=-1221,2
+
+java DungeonHunterParallel 2000 0.2 100
+	 dungeon size: 2000,
+	 rows: 20000, columns: 20000
+	 x: [-2000,000000, 2000,000000], y: [-2000,000000, 2000,000000]
+	 Number searches: 16000000
+
+	 time: 32785 ms
+	number dungeon grid points evaluated: 185821215  (46%)
+Dungeon Master (mana 96845) found at:  x=886,0 y=-1221,2
+
