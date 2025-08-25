@@ -83,7 +83,7 @@ make run ARGS="100 0.2 123"
 
 ### 📊 Performance Results
 Performance analysis and results are available in the `appendix/` directory, including:
-- Laptop performance metrics (Excel and PDF reports)
+- Laptop performance metrics
 - Nightmare server performance metrics
 - Raw text output files for both sequential and parallel implementations
 - System information files
