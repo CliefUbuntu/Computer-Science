@@ -10,4 +10,4 @@ run:
 	$(JAVA) DungeonHunterParallel $(ARGS)
 
 clean:
-	find . -name "*.class" -type f -delete
+	rm -f *.class
